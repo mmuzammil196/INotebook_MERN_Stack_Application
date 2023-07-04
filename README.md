@@ -1,6 +1,9 @@
 # Welcome to iNotebook - Your Notes Saved in the Cloud! 
 
-![image](https://github.com/mmuzammil196/INotebook_MERN_STACK_APP/assets/77389040/55f3f651-f2a9-4e87-9182-b1d9a133506a)
+![image](https://github.com/mmuzammil196/INotebook_MERN_Stack_Application/assets/77389040/2b3744e8-f59c-46bd-bdcd-cd0d65d2eced)
+
+![image](https://github.com/mmuzammil196/INotebook_MERN_Stack_Application/assets/77389040/c8662f69-3e3c-4dc0-a433-cb2297d30ee3)
+
 
 At iNotebook, we believe that capturing and organizing your thoughts should be effortless and convenient. That's why we have created a web application that revolutionizes the way you take notes and store them securely in the cloud. Our team of dedicated developers has crafted this project using the cutting-edge MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring a seamless and robust user experience. 
 Our mission is to provide you with a reliable and user-friendly platform that simplifies note-taking and keeps your valuable ideas safe. 
